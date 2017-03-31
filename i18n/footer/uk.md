@@ -1,0 +1,4 @@
+- Щоб показати ці інструкції знов: `{appname} print`
+- Щоб виконати програму: `{appname} run file.htlm`
+- Щоб перевірити ваше рішення: `{appname} verify file.html`
+- Потрібна допомога? `{appname} help`
